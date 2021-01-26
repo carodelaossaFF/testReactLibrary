@@ -43,6 +43,6 @@
   ],
   "typings": "dist/index.d.ts",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/carodelaossaFF"
+    "registry": "https://npm.pkg.github.com/@carodelaossaff"
   }
 }
